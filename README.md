@@ -9,5 +9,5 @@ This is an Remote Administration tool, designed to execute various commands on c
 This project was made for educational purpouses. Nothing here is for malicious use.
 # Updates
 ```diff
-+ Using Tor instead of regular http
++ 12/20/2025 Using Tor instead of regular http 
 ```
